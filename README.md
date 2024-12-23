@@ -12,7 +12,7 @@ Give this repository a star! ⭐
 
 ## **How to Use**
 1. **Set up a Launchpad**: The plugin allows you to define multiple launchpads with different sounds, effects, and knockback strengths.
-2. **Activate**: Step on the launchpad block to activate the effects and experience a thrilling ride into the air!
+2. **Activate**: Step on a launchpad block to activate the effects and experience a thrilling ride into the air!
 3. **Customization**: Adjust settings for each launchpad through the configuration file, where you can define:
     - **Sound**: Set the sound effect when a player uses the launchpad.
     - **Effect**: Choose a particle effect for a visually stunning experience.
