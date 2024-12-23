@@ -57,8 +57,8 @@ launchPads:
 ---
 
 ## **Links**
-- 💖 [Donate](#) (Coming soon)
-- 🚀 [Request New Features](#) (Coming soon)
+- 💖 [Donate](https://buymeacoffee.com/lauradev)
+- 🚀 [Request New Features](https://github.com/lauradevmc/ModernLaunchPad/issues) (Just open a issue)
 
 ## **License**
 ModernLaunchPad is an **OpenSource** plugin. Feel free to contribute, make improvements, and share your feedback!
