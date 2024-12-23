@@ -2,6 +2,7 @@
 # **ModernLaunchPad Plugin**
 
 Welcome to **ModernLaunchPad**, a fully customizable Minecraft plugin that enhances your lobby experience with interactive launchpads! 🚀✨
+Give this repository a star! ⭐
 
 ## **Features**
 - 🎵 **Customizable Sound**: Choose from a variety of Minecraft sounds to play when using the launchpad.
