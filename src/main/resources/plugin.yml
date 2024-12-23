@@ -1,0 +1,12 @@
+name: ModernLaunchPad
+version: '1.0'
+main: dev.laura.modernLaunchPad.ModernLaunchPad
+api-version: '1.18'
+authors: [ lauradev ]
+description: Modern LaunchPad plugin
+commands:
+  reloadmodernlaunchpad:
+    description: Reloads plugin config
+    aliases:
+      - rml
+      - reloadml

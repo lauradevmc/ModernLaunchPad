@@ -1,0 +1,22 @@
+# ModernLaunchPad Configuration - Fully customizable!
+# Reference lists:
+# - Sounds: https://www.digminecraft.com/lists/sound_list_pc.php
+# - Effects: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Effect.html
+
+launchPads:
+  1:
+    sound:
+      # The sound played when the launchpad is used
+      name: entity.bat.takeoff
+      volume: 1.0
+      pitch: 1.0
+    effect:
+      # The effect activated when the launchpad is used
+      type: ender_signal
+      data: 1 # Additional data values (depends on the effect type)
+    block:
+      # The block type used as the launchpad
+      type: lime_carpet
+    knockback:
+      # The strength of the knockback when using the launchpad
+      velocity: 5.0
